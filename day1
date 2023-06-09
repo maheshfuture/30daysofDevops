@@ -1,0 +1,25 @@
+Day1--
+DEVOPS-
+development---> code
+operation ---> build,testing,security analysis,deployment, manage.
+CI/CD--
+CI-- continuous integration- means multiple changes do in repository
+ci--> commit->build->automation build->repoting the result.
+CD- continuous devployment.
+enviourment for cd-
+1.dev 2.QA 3. PPD 4.Prod 5.DR
+In cd we have two things
+continuous deployment
+1. Deployment Pipeline
+2. Automnated deploy.
+3. testing
+4. release rollback
+5. monitoring.
+use of devops--
+-time saved
+-early bug detection
+-increased collaboration
+-improved quality
+-agility and flexibility
+Q what is devops
+Q. difference in ci and cd
